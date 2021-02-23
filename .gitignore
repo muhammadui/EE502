@@ -3,3 +3,5 @@ Assignment/*/obj/Debug/
 *.exe
 *.o
 *.cbp
+*.layout
+*.depend

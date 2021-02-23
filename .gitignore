@@ -1,2 +1,5 @@
 Assignment/*/bin/Debug/
 Assignment/*/obj/Debug/
+*.exe
+*.o
+*.cbp
